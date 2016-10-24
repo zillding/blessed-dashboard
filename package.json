@@ -1,7 +1,11 @@
 {
   "name": "blessed-dashboard",
   "version": "0.0.0",
-  "description": "Dashboard",
+  "description": "A CLI blessed dashboard blessed by blessed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zillding/blessed-dashboard"
+  },
   "scripts": {
     "start": "babel-node src/index.js",
     "build": "babel src -d lib",
