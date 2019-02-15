@@ -1,5 +1,7 @@
 # Blessed Dashboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zillding/blessed-dashboard.svg)](https://greenkeeper.io/)
+
 A terminal UI dashboard 'blessed' by the
 [blessed](https://www.npmjs.com/package/blessed) package
 
